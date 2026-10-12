@@ -56,7 +56,7 @@
         }
     } 
 
-   const SITE_KEY = '6LdIiustAAAAAAacSl_TwY-MZLc1zMe0nQ2RAVyi';  // Replace with your site key
+   const SITE_KEY = '6LfSp-stAAAAAEKVHVCYnKpU4xPbu_GmcHjKdsCT';  // Replace with your site key
 
 const recaptchaContainer = ref(null);
 const recaptchaWidgetId = ref(null);
